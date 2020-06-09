@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context>
+   <Resource name="jdbc/COFFEES" auth="Container"
+       type="javax.sql.DataSource" 
+       username="lwoodward" password="Vienna1988!"
+       driverClassName="oracle.jdbc.driver.OracleDriver"
+       url="jdbc:oracle:thin:@interact-db-f1.its.deakin.edu.au:1521:SSID" 
+       maxActive="8"    /> 
+</Context> 
